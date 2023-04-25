@@ -1,0 +1,6 @@
+email,password,output
+autom1@auto,1234,201
+autom1@auto,1234,422
+,,500
+,1234,500
+autom1@auto,,500

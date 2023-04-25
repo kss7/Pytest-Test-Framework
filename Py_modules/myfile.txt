@@ -1,0 +1,5 @@
+user    city        email
+Jake    Barcelona   jake@mymail.com
+Lucas   Doha        lucas@mymail.com
+Amaan   London      amaan@mymail.com
+Akki    Pune        akki@mymail.com

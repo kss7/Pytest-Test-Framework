@@ -1,0 +1,6 @@
+RequestURL:  https://petstore.swagger.io/v2/pet/191
+{
+   "code": 1,
+   "type": "error",
+   "message": "Pet not found"
+}

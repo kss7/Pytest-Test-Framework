@@ -1,0 +1,19 @@
+{
+    "name": "Raji",
+    "email": "raji@mymail.com",
+    "hobbies": ["chess", "travel", "programming"],
+    "salary": 2500,
+    "married": true,
+    "address": {"country": "India", "city": "Pune", "Permanent":  false, "Phone": 12345},
+    "skills": [
+        {
+            "name": "python",
+            "years": 3        },
+        {
+            "name": "R",
+            "years": 2          },
+	    {
+	        "name": "Java",
+	        "years": 1.5        }
+    ]
+}

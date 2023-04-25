@@ -1,0 +1,3 @@
+RequestURL:  https://petstore.swagger.io/v2/pet/
+ReqBody:  {"id": 191, "name": "Cutie", "status": "pending"}
+{'id': 191, 'name': 'Cutie', 'photoUrls': [], 'tags': [], 'status': 'pending'}
